@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "my_parser"
+name = "my_parser_some"
 version = "0.1.0"
 dependencies = [
  "peg",
